@@ -1,1 +1,2 @@
 Hola vengo a desactualizar el repositorio local
+a esto tambien le hago un reset
